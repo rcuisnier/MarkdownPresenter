@@ -11,7 +11,7 @@ import time
 from zipfile import ZipFile
 import os
 
-tagname = "1.1"
+tagname = "1.3.1"
 zipname = "markdown-presenter-" + tagname + ".zip"
 zippath = "./" + zipname
 url = "https://github.com/jsakamoto/MarkdownPresenter/releases/download/v." + tagname + "/" + zipname
