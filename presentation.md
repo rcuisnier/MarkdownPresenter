@@ -1,8 +1,18 @@
-## Welcome to **Markdown Presenter**!
+# Welcome to **Markdown Presenter**!
 
-- Update "presentation.md" by any text editor which you prefer.
- - to separate slides insert a paragraph with an exclamation mark.
+!
+
+## Edit slides
+
+- Update "**presentation.md**" by any text editor which you prefer.
+ - to separate slides insert a paragraph with an exclamation mark ( "`!`" ).
+
+!
+
+## Reload slides
+
 - Hit space key at this browser to rapid reload.
+  - or type 'A' key to toggle **Auto Reload**!
   - F5 or Ctrl+R reload work well too.
 
 !

@@ -9,7 +9,7 @@ Check out a demo
 [here](http://jsakamoto.github.com/MarkdownPresenter/Presenter.html).
 
 #### Supported devices and browsers
-Markdown Presenter may work well on iPhone/iPad, Android, and PC Desktop browsers (Chrome, Firefox, IE - if you want touch support, you can chose IE10 on Windows8 -).  
+Markdown Presenter may work well on iPhone/iPad, Android, and PC Desktop browsers (Chrome, Firefox, IE - if you want touch support, you can chose IE10+ on Windows8+ -).  
 ![slide index at dropdown](http://jsakamoto.github.io/MarkdownPresenter/iphone.png)
 
 #### Switching between slides
@@ -18,6 +18,9 @@ Use the **arrow keys** on your keyboard or **swipe horizontally** on touch scree
 #### Reloading
 You can reload the presentation at any time - staying on the same
 slide number - by pressing the spacebar.
+
+The other way, you can enable **"Auto Reload"** mode by typing `A` key.  
+In "Auto Reload" mode, Markdown Presenter is watching the change of `presentation.md` and reload it automatically.
 
 #### Transition effect
 If you whould like to get fade in/out effect on switching between slides, type 'e' then 'f' key on your keyboard.  
